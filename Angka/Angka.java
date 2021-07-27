@@ -1,3 +1,6 @@
+import java.io.IOException;
+import java.util.Scanner;
+
 class Angka {
 
 	public static void main(String[] args) {
