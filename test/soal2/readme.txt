@@ -1,1 +1,4 @@
-
+-menggunakan node.js versi latest stable v18.12.1 (javascript)
+-build evirontment dengan command "node init"
+-menggunakan dan menginstal module axios dengan command "node i axios"
+-dijalankan menggunakan command "node index.mjs" untuk menjalakan di module experiment
