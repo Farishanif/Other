@@ -1,4 +1,5 @@
 ////////////code ini belum selesai///////////////
+
 Berisi sebuah code untuk memasukkan sebuah kata kedalam sebuah array sinonim berdimensi 2x2
 akan terdapat dua fungsi yang dapat dijalankan: 
 - fungsi pertama terdapat dua parameter yaitu array string dan string, array string akan ditambahkan kedalam 
