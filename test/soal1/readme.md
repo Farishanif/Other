@@ -1,0 +1,2 @@
+- dibuat menggunakan netbeans(Java)
+- berada di package testamps
