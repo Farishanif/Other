@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 class MinPlusZero {
 
-    public static void plusMinusZeros(List<Integer> arr) {
+    public static void minusPlusZeros(List<Integer> arr) {
 
         //sort list
         Collections.sort(arr);
@@ -65,7 +65,7 @@ class MinPlusZero {
       .map(Integer::parseInt)
       .collect(toList());
       
-      plusMinusZeros(arr);
+      minusPlusZeros(arr);
 
       bufferedReader.close();
       */
@@ -74,7 +74,7 @@ class MinPlusZero {
       //int n = 10;
       List<Integer> arr = Arrays.asList(2,-3, 5, -1,0,0,0,1,-2,2);
 
-      plusMinusZeros(arr);
+      minusPlusZeros(arr);
 
   }
 }
