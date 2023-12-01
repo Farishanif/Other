@@ -55,7 +55,7 @@ class MinPlusZero {
     }
 
   public static void main(String[] args) throws IOException {
-  	  //used with buffered java 8, input example: 8	,	[-3,-2,-1,0,0,0,1,2] 
+  	  //used for java 8 or older, input example: 8	,	[-3,-2,-1,0,0,0,1,2] 
       /*
       BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
